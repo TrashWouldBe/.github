@@ -32,11 +32,19 @@ Search the app store and google play store for Trab!
 ### IOS
 https://apps.apple.com/kr/app/trab/id6475684228
 
+### Android
+
+Comming Soon!
+
 ## :fish: History
 
 ### IOS
 Release 1.0 - 24/02/09<br>
 Release 1.0.1 - 24/02/10
+
+### Android
+
+Comming Soon!
 
 ## :anchor: Architecture
 
