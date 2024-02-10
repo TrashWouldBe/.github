@@ -1,11 +1,13 @@
 # TrashWouldBe
 
 ## Preview
-![img](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/f0/93/68f093c2-99c5-73be-4163-a109ccf2a8db/066fed53-5865-4acc-ad39-4b860d605d4b_Frame_3477.png/460x0w.webp)
-![img](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/ad/fa/9fadfa4a-19fc-3319-fe6b-4410fda2cd84/711b35f6-208d-496f-a335-0d7bbc204a0c_Frame_3478.png/460x0w.webp)
-![img](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/77/90/4e77904a-9317-135f-2ab0-65263f9d1b1e/e0606965-c43e-4730-9720-d61f8d65bbda_Frame_3479.png/460x0w.webp)
-![img](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fc/64/a7/fc64a769-4868-b0a6-8205-307790d7da5b/16051cf6-f0d3-44d4-899d-e0013c3f3575_Frame_3480.png/460x0w.webp)
-![img](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/33/e7/b5/33e7b57f-55d7-c55b-8619-70a02a23eea6/f8a0b537-8069-48c0-bb1d-3ed87170b957_Frame_3481.png/460x0w.webp)
+<p align="center">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/f0/93/68f093c2-99c5-73be-4163-a109ccf2a8db/066fed53-5865-4acc-ad39-4b860d605d4b_Frame_3477.png/460x0w.webp" width="450"/> 
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/ad/fa/9fadfa4a-19fc-3319-fe6b-4410fda2cd84/711b35f6-208d-496f-a335-0d7bbc204a0c_Frame_3478.png/460x0w.webp" width="450"/> 
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/77/90/4e77904a-9317-135f-2ab0-65263f9d1b1e/e0606965-c43e-4730-9720-d61f8d65bbda_Frame_3479.png/460x0w.webp" width="450"/> 
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fc/64/a7/fc64a769-4868-b0a6-8205-307790d7da5b/16051cf6-f0d3-44d4-899d-e0013c3f3575_Frame_3480.png/460x0w.webp" width="450"/> 
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/33/e7/b5/33e7b57f-55d7-c55b-8619-70a02a23eea6/f8a0b537-8069-48c0-bb1d-3ed87170b957_Frame_3481.png/460x0w.webp" width="450"/>
+</p>
 
 ## :satellite: Background
 
