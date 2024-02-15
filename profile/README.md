@@ -40,7 +40,8 @@ Comming Soon!
 
 ### IOS
 Release 1.0 - 24/02/09<br>
-Release 1.0.1 - 24/02/10
+Release 1.0.1 - 24/02/10<br>
+Release 1.0.2 - 24/02/11
 
 ### Android
 
