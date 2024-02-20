@@ -31,11 +31,11 @@ Search the app store and google play store for Trab!
 
 ### IOS
 
-[AppStore](https://apps.apple.com/kr/app/trab/id6475684228)
+[App Store](https://apps.apple.com/kr/app/trab/id6475684228)
 
 ### Android
 
-[TraB.apk](https://drive.google.com/file/d/1hgGSaZjcm25hA4Q3Vb6FR00wz1kZnvwN/view?usp=drive_link)
+[TraB.apk](https://drive.google.com/file/d/1iM-KTq3zAKe-Zytn8MES_qJpa6nIMqbo/view?usp=drive_link)
 
 ## :fish: History
 
