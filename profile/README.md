@@ -30,20 +30,19 @@ Our team TrashWouldBe decided to encourage people to do an environmental movemen
 Search the app store and google play store for Trab!
 
 ### IOS
-https://apps.apple.com/kr/app/trab/id6475684228
+
+[AppStore](https://apps.apple.com/kr/app/trab/id6475684228)
 
 ### Android
 
-Comming Soon!
+[TraB.apk](https://drive.google.com/file/d/1hgGSaZjcm25hA4Q3Vb6FR00wz1kZnvwN/view?usp=drive_link)
 
 ## :fish: History
 
-### IOS
 Release 1.0 - 24/02/09<br>
 Release 1.0.1 - 24/02/10<br>
-Release 1.0.2 - 24/02/11
-
-### Android
+Release 1.0.2 - 24/02/11<br>
+Release 1.0.3 - 24/02/19
 
 Comming Soon!
 
