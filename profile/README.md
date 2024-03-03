@@ -48,15 +48,15 @@ Comming Soon!
 
 ## :anchor: Architecture
 
-![img](https://cdn.discordapp.com/attachments/1156230299202625608/1204342524534063114/2024-02-06_5.27.06.png?ex=65d46261&is=65c1ed61&hm=210aadb3e229247e9d317b9119f3a98077325c3f54221b8da95087800b915936&)
+<img width="1154" alt="2024-02-06_5 27 06" src="https://github.com/TrashWouldBe/.github/assets/80691668/a4af9924-7c37-4aee-96cc-a3e621f15548">
 
 ## :anchor: DB architecture
 
-![img](https://cdn.discordapp.com/attachments/1156230299202625608/1204342767191326801/2024-02-06_5.28.04.png?ex=65d4629b&is=65c1ed9b&hm=d7230f1166dec0849207f9771291b32a266071ee96465e5d90c1fc84881cc5fe&)
+<img width="1400" alt="2024-02-06_5 28 04" src="https://github.com/TrashWouldBe/.github/assets/80691668/ab327942-b3ae-4682-b4f0-b835f1dacebc">
 
 ## Contributor
 
 Frontend|Backend/AI|Backend|Designer
 :---:|:---:|:---:|:---:
-![img](https://cdn.discordapp.com/attachments/1156230299202625608/1204345904581312532/1.png?ex=65d46587&is=65c1f087&hm=5644f1bf7a0d6e1fc1a9da9ffc71869e08da9c478b27ec4769c05dcfd499aa35&)|![img](https://cdn.discordapp.com/attachments/1156230299202625608/1205900054599045120/21312.png?ex=65da0cf1&is=65c797f1&hm=bdb9c273c132abae3624aeb2e0d9eb75d9c3f32ea387762c0e82b9be3264175e&)|![img](https://cdn.discordapp.com/attachments/1156230299202625608/1204345905478766623/3.jpeg?ex=65d46587&is=65c1f087&hm=ad52fb2ec0cfa25d0b2dda4bcc68986ab87b4bdf1a18eb48f02192e1f399b899&)|![img](https://cdn.discordapp.com/attachments/1156230299202625608/1204345906225221702/4.png?ex=65d46587&is=65c1f087&hm=667cb22dfbab0d056c1ff86f020b68bb7f3f368c4c8744099cc2a7233c0baa24&)
+<img width="500" alt="한" src="https://github.com/TrashWouldBe/.github/assets/80691668/5b5a7c50-5e6e-41ad-89d4-0230ebe40243">|<img width="500" alt="범" src="https://github.com/TrashWouldBe/.github/assets/80691668/dabc156e-10b1-457a-a880-8d80e2fee166">|![태](https://github.com/TrashWouldBe/.github/assets/80691668/b8d92637-514b-4de1-ba06-f7b5a0e6af0c)|<img width="500" alt="히" src="https://github.com/TrashWouldBe/.github/assets/80691668/08c21d5f-bacf-43d7-bd3b-8b211dbf497f">
 [한승우](https://github.com/saewoohan)|[홍정범](https://github.com/hjeongb0320)|[김진태](https://github.com/KimJinTae1)|안희
